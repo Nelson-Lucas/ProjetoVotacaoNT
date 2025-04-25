@@ -1,0 +1,6 @@
+com\example\votacao\repository\PautaRepository.class
+com\example\votacao\model\Voto.class
+com\example\votacao\VotacaoApplication.class
+com\example\votacao\controller\mock\MockController.class
+com\example\votacao\model\Pauta.class
+com\example\votacao\controller\PautaController.class
