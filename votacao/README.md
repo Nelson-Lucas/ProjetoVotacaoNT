@@ -17,5 +17,3 @@ Essa documentação contém alguns passos relevantes para rodar o projeto e algu
 5 - Foram adicionados testes de performance no arquivo PautaControllerPerformanceTest, para rodar o teste vá no terminal na pasta do projeto e digite: mvn test
 5.1 - Explicando o teste: foi criada uma pauta aberta antes de cada teste com 10 minutos de duração, em seguida foi criado 100000 votos simulados com ids únicos e todas as respostas devem retornar o status HTTP 200.
 
-6 - Sobre a tarefa 4: Eu versionaria a API da minha aplicação por meio de branches, pois é o meio que estou mais acostumado e que acho melhor em uma equipe de desenvolvedores, com novas features tendo a tag feature(feature/nome-da-feature por exemplo), release para preparar versões e hotfix para correções urgentes.
-6.1 - Em projetos open-source sou a favor do versionamento semântico, usando como exemplo um projeto que esteja na versão(1.0.0), usar números quebrados para correções e novas funcionalidades menores(1.0.1) por exemplo e usar um número a mais em correções mais urgentes e novas funcionalidades mais importantes(2.0.0) por exemplo.
